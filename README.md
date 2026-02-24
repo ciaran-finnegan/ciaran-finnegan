@@ -2,7 +2,7 @@
 
 Independent information security consultant splitting time between Australia, Bali, and Ireland.
 
-25+ years across software engineering, banking, manufacturing, and consulting — from hands-on technical roles to building and leading consulting practices.
+25+ years across software engineering, banking, manufacturing, and consulting — from writing code and building systems to leading consulting practices.
 
 Focused on applying systems thinking and engineering discipline to information security, where governance and compliance models are often inefficient and disconnected from the systems and risks they are meant to address.
 
